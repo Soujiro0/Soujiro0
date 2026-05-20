@@ -35,11 +35,11 @@ I specialize in building robust backend architectures and local-first applicatio
 ### 🚀 Featured Launches & Experience
 Explore my latest shipped products, internships, and architectural case studies:
 
-* 🧰 **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing & inventory system featuring role-based access control (RBAC).
-* 🏛️ **ValACE OPAC** — Engineered the core architecture and RESTful APIs for an on-premise library catalog system during a technical internship.
-* 📱 **[AniSwipe (v1.0.1)](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
-* 📂 **LDrive** — A local-first Dockerized personal cloud storage ecosystem designed for restricted network access *(Currently Building)*.
-* ☁️ **SnapLinkIMG** — A high-performance serverless image hosting API featuring on-the-fly WebP compression, EXIF extraction, and secure ephemeral storage *(Currently Building)*.
+* **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing & inventory system featuring role-based access control (RBAC).
+* **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — Engineered the core architecture and RESTful APIs for an on-premise library catalog system during a technical internship.
+* **[AniSwipe (v1.0.1)](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
+* **LDrive** — A local-first Dockerized personal cloud storage ecosystem designed for restricted network access *(Currently Building)*.
+* **SnapLinkIMG** — A high-performance serverless image hosting API featuring on-the-fly WebP compression, EXIF extraction, and secure ephemeral storage *(Currently Building)*.
 
 ---
 
