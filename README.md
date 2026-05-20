@@ -4,7 +4,8 @@
   <p><i>Design. Build. Deploy.</i></p>
   <p>
     <a href="https://www.linkedin.com/in/jerry-castrudes-372a032b1">LinkedIn</a> • 
-    <a href="https://dev-portfolio-jerrycastrudes.vercel.app/">Portfolio</a>
+    <a href="https://dev-portfolio-jerrycastrudes.vercel.app/">Portfolio</a> • 
+    <a href=emailto:castrudesjerry02@gmail.com">Email</a>
   </p>
 </div>
 
