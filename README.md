@@ -39,6 +39,7 @@ Explore my latest shipped products, internships, and architectural case studies:
 * **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — Engineered the core architecture and RESTful APIs for an on-premise library catalog system during a technical internship.
 * **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
 * **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker, featuring a custom API proxy.
+* **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based terminal workspace manager designed to permanently save and instantly restore complex, multi-tab local CLI environments.
 
 
 ---
