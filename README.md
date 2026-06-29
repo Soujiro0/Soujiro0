@@ -41,6 +41,7 @@ Explore my latest shipped products, internships, and architectural case studies:
 * **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker, featuring a custom API proxy.
 * **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based terminal workspace manager designed to permanently save and instantly restore complex, multi-tab local CLI environments.
 * **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Bash script for automated Git deployments, secure SSH background pulling, and Docker container management on Linux/WSL.
+* **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)** — A zero-dependency, serverless monitoring system built natively on Google Workspace to track Google Drive storage quotas across multiple accounts.
 
 
 ---
