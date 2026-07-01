@@ -43,6 +43,14 @@ Explore my latest shipped products, internships, and architectural case studies:
 * **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Bash script for automated Git deployments, secure SSH background pulling, and Docker container management on Linux/WSL.
 * **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)** — A zero-dependency, serverless monitoring system built natively on Google Workspace to track Google Drive storage quotas across multiple accounts.
 
+---
+
+### 🔬 Continuous Learning & Hands-On Labs
+I actively expand my skill set through practical, project-based roadmaps on **[NextWork](https://nextwork.ai/)**, documenting my progress in a structured knowledge base:
+
+* **[NextWork Projects & Documentation Showcase](https://github.com/Soujiro0/nextwork-project-documentations)** — A centralized repository of hands-on labs, architectural breakdowns, and step-by-step technical guides spanning **Cloud Engineering**, **AI & LLM Tooling**, **DevOps & Security**, and **Full-Stack Systems**.
+  * **Structured Documentation:** End-to-end technical walkthroughs, system architecture diagrams, and downloadable lesson guides.
+  * **Practical Implementations:** Real-world cloud configurations, containerization workflows, automation scripts, and live deployments across modern tech stacks.
 
 ---
 
