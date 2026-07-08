@@ -28,6 +28,7 @@ I specialize in building robust backend architectures and local-first applicatio
 **Infrastructure & DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -38,6 +39,7 @@ Explore my latest shipped products, internships, and architectural case studies:
 * **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing & inventory system featuring role-based access control (RBAC).
 * **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — Engineered the core architecture and RESTful APIs for an on-premise library catalog system during a technical internship.
 * **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
+  * **Cross-Repo CI/CD Pipeline:** Engineered automated, event-driven GitHub Actions workflows (`repository_dispatch` & fine-grained PAT sync) that securely bridge the private web app codebase with the public release mirror—automating changelog synchronization, SemVer Git tagging, and GitHub Release note extraction on every merge.
 * **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker, featuring a custom API proxy.
 * **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based terminal workspace manager designed to permanently save and instantly restore complex, multi-tab local CLI environments.
 * **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Bash script for automated Git deployments, secure SSH background pulling, and Docker container management on Linux/WSL.
@@ -60,3 +62,4 @@ I streamline the software development lifecycle, moving efficiently from initial
 1. **Full-Stack Engineering:** Deep expertise in connecting React.js frontends with robust Laravel or Node.js backends via secure APIs.
 2. **Complex Architecture:** Designing relational databases, transaction logs, and time-based state changes to enforce user accountability.
 3. **Local-First Solutions:** Pushing boundaries with local-only applications and personal cloud ecosystems using Docker and advanced containerization for secure, network-isolated environments.
+4. **CI/CD & DevOps Automation:** Architecting cross-repository event-driven GitHub Actions workflows that securely bridge private development codebases with public release mirrors—automating semantic versioning, Git tagging, and changelog release publishing with zero manual overhead.
