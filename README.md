@@ -11,6 +11,7 @@
 ---
 
 ### 💻 Tech Stack & Tools
+
 I specialize in building robust backend architectures and local-first applications using modern toolchains.
 
 **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,11 +40,11 @@ I specialize in building robust backend architectures and local-first applicatio
 ---
 
 ### 📊 GitHub Contributions & Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soujiro0&theme=react-dark&bg_color=0d1117&color=61DAFB&line=38B2AC&point=ffffff&area=true&hide_border=true" alt="Jerry's Contribution Activity Graph" width="100%" />
   <br />
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Soujiro0&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Jerry's GitHub Stats" height="175" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soujiro0&theme=react&hide_border=true" alt="Jerry's GitHub Streak" height="175" />
   </p>
 </div>
@@ -51,46 +52,49 @@ I specialize in building robust backend architectures and local-first applicatio
 ---
 
 ### 🚀 Featured Launches & Experience
+
 Explore my latest shipped products, internships, and architectural case studies:
 
-* **[ZeroAuth Chat](https://github.com/Soujiro0/zeroauth-chat)** — A zero-registration, ephemeral real-time messaging and WebRTC calling platform with 7-day automatic data pruning for privacy by design.
-  * **Real-Time WebSockets (`Socket.IO`):** Engineered multi-room live channel grids (`#Global`, custom rooms) and instant 1-click private direct messaging (`dm_uuidA_uuidB`) using device-bound UUID identity (`#1A2B`).
-  * **WebRTC Signaling & Media Processing:** Integrated peer-to-peer audio/video live calling and multi-format media upload pipelines with server-side compression (`Sharp` + `FFmpeg`).
+- **[ZeroAuth Chat](https://github.com/Soujiro0/zeroauth-chat)** — A zero-registration, ephemeral real-time messaging and WebRTC calling platform with 7-day automatic data pruning for privacy by design.
+  - **Real-Time WebSockets (`Socket.IO`):** Engineered multi-room live channel grids (`#Global`, custom rooms) and instant 1-click private direct messaging (`dm_uuidA_uuidB`) using device-bound UUID identity (`#1A2B`).
+  - **WebRTC Signaling & Media Processing:** Integrated peer-to-peer audio/video live calling and multi-format media upload pipelines with server-side compression (`Sharp` + `FFmpeg`).
 
-* **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing and inventory management system.
-  * **Role-Based Access Control (RBAC):** Architected secure, multi-tier user authentication and authorization workflows to govern asset checkouts, approvals, and inventory logs.
+- **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing and inventory management system.
+  - **Role-Based Access Control (RBAC):** Architected secure, multi-tier user authentication and authorization workflows to govern asset checkouts, approvals, and inventory logs.
 
-* **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — An on-premise library online public access catalog (OPAC) system built during a technical internship.
-  * **RESTful API & Database Architecture:** Designed high-concurrency relational database schemas and optimized API endpoints for rapid book querying and catalog indexing.
+- **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — An on-premise library online public access catalog (OPAC) system built during a technical internship.
+  - **RESTful API & Database Architecture:** Designed high-concurrency relational database schemas and optimized API endpoints for rapid book querying and catalog indexing.
 
-* **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
-  * **Cross-Repo CI/CD Pipeline:** Engineered automated, event-driven GitHub Actions workflows (`repository_dispatch` & fine-grained PAT sync) that bridge private codebases with public release mirrors—automating SemVer Git tagging and changelog releases.
+- **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
+  - **Cross-Repo CI/CD Pipeline:** Engineered automated, event-driven GitHub Actions workflows (`repository_dispatch` & fine-grained PAT sync) that bridge private codebases with public release mirrors—automating SemVer Git tagging and changelog releases.
 
-* **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker.
-  * **Containerization & Reverse Proxy:** Architected network-isolated Docker containers coupled with custom API proxy endpoints for smooth, local-first media streaming.
+- **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker.
+  - **Containerization & Reverse Proxy:** Architected network-isolated Docker containers coupled with custom API proxy endpoints for smooth, local-first media streaming.
 
-* **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based desktop terminal workspace manager.
-  * **Desktop Apps & Process Management:** Built persistent local CLI state recovery to instantly save and restore complex, multi-tab terminal environments across reboots.
+- **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based desktop terminal workspace manager.
+  - **Desktop Apps & Process Management:** Built persistent local CLI state recovery to instantly save and restore complex, multi-tab terminal environments across reboots.
 
-* **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Linux/WSL automation utility.
-  * **Bash Scripting & DevOps Automation:** Developed background SSH polling, automated Git deployments, and Docker container lifecycle management scripts.
+- **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Linux/WSL automation utility.
+  - **Bash Scripting & DevOps Automation:** Developed background SSH polling, automated Git deployments, and Docker container lifecycle management scripts.
 
-* **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)** — A serverless quota monitoring system built on Google Workspace.
-  * **Serverless Google Apps Scripting:** Automated storage tracking and multi-account quota alerts with zero third-party dependencies or external server overhead.
+- **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)** — A serverless quota monitoring system built on Google Workspace.
+  - **Serverless Google Apps Scripting:** Automated storage tracking and multi-account quota alerts with zero third-party dependencies or external server overhead.
 
 ---
 
 ### 🔬 Continuous Learning & Hands-On Labs
+
 I actively expand my skill set through practical, project-based roadmaps on **[NextWork](https://nextwork.ai/)**, documenting my progress in a structured knowledge base:
 
-* **[NextWork Projects & Documentation Showcase](https://github.com/Soujiro0/nextwork-project-documentations)** — A centralized repository of hands-on labs, architectural breakdowns, and step-by-step technical guides spanning **Cloud Engineering**, **AI & LLM Tooling**, **DevOps & Security**, and **Full-Stack Systems**.
-  * **Structured Documentation:** End-to-end technical walkthroughs, system architecture diagrams, and downloadable lesson guides.
-  * **Practical Implementations:** Real-world cloud configurations, containerization workflows, automation scripts, and live deployments across modern tech stacks.
+- **[NextWork Projects & Documentation Showcase](https://github.com/Soujiro0/nextwork-project-documentations)** — A centralized repository of hands-on labs, architectural breakdowns, and step-by-step technical guides spanning **Cloud Engineering**, **AI & LLM Tooling**, **DevOps & Security**, and **Full-Stack Systems**.
+  - **Structured Documentation:** End-to-end technical walkthroughs, system architecture diagrams, and downloadable lesson guides.
+  - **Practical Implementations:** Real-world cloud configurations, containerization workflows, automation scripts, and live deployments across modern tech stacks.
 
 ---
 
 ### 🧠 What I Bring to the Table
-I streamline the software development lifecycle, moving efficiently from initial client scoping to technical roadmapping and final production handover. 
+
+I streamline the software development lifecycle, moving efficiently from initial client scoping to technical roadmapping and final production handover.
 
 1. **Full-Stack Engineering:** Deep expertise in connecting React.js frontends with robust Laravel or Node.js backends via secure APIs.
 2. **Real-Time & Distributed Systems:** Architecting low-latency WebSocket signaling (`Socket.IO`), peer-to-peer WebRTC media flows, and self-cleaning ephemeral data lifecycles.
