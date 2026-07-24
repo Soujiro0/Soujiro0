@@ -14,28 +14,13 @@
 
 I specialize in building robust backend architectures and local-first applications using modern toolchains.
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+**Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Databases & BaaS:** ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Databases & BaaS:** ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Infrastructure & DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+**Infrastructure & DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -55,30 +40,32 @@ I specialize in building robust backend architectures and local-first applicatio
 
 Explore my latest shipped products, internships, and architectural case studies:
 
-- **[ZeroAuth Chat](https://github.com/Soujiro0/zeroauth-chat)** — A zero-registration, ephemeral real-time messaging and WebRTC calling platform with 7-day automatic data pruning for privacy by design.
-  - **Real-Time WebSockets (`Socket.IO`):** Engineered multi-room live channel grids (`#Global`, custom rooms) and instant 1-click private direct messaging (`dm_uuidA_uuidB`) using device-bound UUID identity (`#1A2B`).
-  - **WebRTC Signaling & Media Processing:** Integrated peer-to-peer audio/video live calling and multi-format media upload pipelines with server-side compression (`Sharp` + `FFmpeg`).
+- **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)**: A full-stack asset borrowing and inventory management system
+  - Architected secure, multi-tier user authentication and authorization workflows to govern asset checkouts, approvals, and inventory logs
 
-- **[Toolshare Capstone](https://github.com/Soujiro0/toolshare-borrowing-system)** — A full-stack asset borrowing and inventory management system.
-  - **Role-Based Access Control (RBAC):** Architected secure, multi-tier user authentication and authorization workflows to govern asset checkouts, approvals, and inventory logs.
+- **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)**: An on-premise library online public access catalog (OPAC) system
+  - Designed high-concurrency relational database schemas and optimized API endpoints for rapid book querying and catalog indexing
 
-- **[ValACE OPAC](https://github.com/Soujiro0/valace-opac-system)** — An on-premise library online public access catalog (OPAC) system built during a technical internship.
-  - **RESTful API & Database Architecture:** Designed high-concurrency relational database schemas and optimized API endpoints for rapid book querying and catalog indexing.
+- **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)**: A responsive swipe-to-discover anime mobile web application
+  - Engineered automated, event-driven GitHub Actions workflows bridging private codebases with public release mirrors
 
-- **[AniSwipe](https://github.com/Soujiro0/aniswipe-releases)** — A responsive swipe-to-discover anime mobile web application connected to a custom API proxy.
-  - **Cross-Repo CI/CD Pipeline:** Engineered automated, event-driven GitHub Actions workflows (`repository_dispatch` & fine-grained PAT sync) that bridge private codebases with public release mirrors—automating SemVer Git tagging and changelog releases.
+- **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)**: A self-hosted, local-first anime streaming platform
+  - Architected network-isolated Docker containers coupled with custom API proxy endpoints for smooth, local-first media streaming
 
-- **[LocalLink - Anime Stream](https://github.com/Soujiro0/locallink-anime-stream)** — A self-hosted, local-first anime streaming platform containerized with Docker.
-  - **Containerization & Reverse Proxy:** Architected network-isolated Docker containers coupled with custom API proxy endpoints for smooth, local-first media streaming.
+- **[ZeroAuth Chat](https://github.com/Soujiro0/zeroauth-chat)**: A zero-registration, ephemeral real-time messaging and WebRTC calling platform
+  - Engineered multi-room live channel grids and integrated peer-to-peer audio/video live calling with server-side compression
 
-- **[TermHub](https://github.com/Soujiro0/TermHub)** — An Electron-based desktop terminal workspace manager.
-  - **Desktop Apps & Process Management:** Built persistent local CLI state recovery to instantly save and restore complex, multi-tab terminal environments across reboots.
+- **[TermHub](https://github.com/Soujiro0/TermHub)**: An Electron-based desktop terminal workspace manager
+  - Built persistent local CLI state recovery to instantly save and restore complex, multi-tab terminal environments across reboots
 
-- **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)** — A zero-dependency Linux/WSL automation utility.
-  - **Bash Scripting & DevOps Automation:** Developed background SSH polling, automated Git deployments, and Docker container lifecycle management scripts.
+- **[DockLite](https://github.com/Soujiro0/DockLite)**: A lightweight, fast, and minimalistic web-based Docker management client
+  - Streamlined Docker environment management with a web interface without the overhead of heavy desktop applications
 
-- **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)** — A serverless quota monitoring system built on Google Workspace.
-  - **Serverless Google Apps Scripting:** Automated storage tracking and multi-account quota alerts with zero third-party dependencies or external server overhead.
+- **[Google Drive Storage Monitor](https://github.com/Soujiro0/gdrive-storage-monitor)**: A serverless quota monitoring system built on Google Workspace
+  - Automated storage tracking and multi-account quota alerts with zero third-party dependencies or external server overhead
+
+- **[Auto Puller WSL](https://github.com/Soujiro0/wsl-git-autopuller)**: A zero-dependency Linux/WSL automation utility
+  - Developed background SSH polling, automated Git deployments, and Docker container lifecycle management scripts
 
 ---
 
@@ -94,10 +81,10 @@ I actively expand my skill set through practical, project-based roadmaps on **[N
 
 ### 🧠 What I Bring to the Table
 
-I streamline the software development lifecycle, moving efficiently from initial client scoping to technical roadmapping and final production handover.
+I offer end-to-end software development services, transforming business requirements into scalable, high-performance, and secure technical solutions. Whether you need a robust web application, a local-first service, or a streamlined deployment pipeline, I can deliver:
 
-1. **Full-Stack Engineering:** Deep expertise in connecting React.js frontends with robust Laravel or Node.js backends via secure APIs.
-2. **Real-Time & Distributed Systems:** Architecting low-latency WebSocket signaling (`Socket.IO`), peer-to-peer WebRTC media flows, and self-cleaning ephemeral data lifecycles.
-3. **Complex Architecture:** Designing relational databases, transaction logs, and time-based state changes to enforce user accountability and data privacy.
-4. **Local-First Solutions:** Pushing boundaries with local-only applications and personal cloud ecosystems using Docker and advanced containerization for secure, network-isolated environments.
-5. **CI/CD & DevOps Automation:** Architecting cross-repository event-driven GitHub Actions workflows that securely bridge private development codebases with public release mirrors—automating semantic versioning, Git tagging, and changelog release publishing with zero manual overhead.
+1. **Custom Full-Stack Development:** I build dynamic and responsive web applications from the ground up, seamlessly integrating modern frontends (React, Next.js, Tailwind) with powerful backends (Node.js, Laravel) to deliver exceptional user experiences.
+2. **Backend & API Architecture:** I design secure, high-concurrency relational databases (MySQL, Postgres) and scalable REST APIs, ensuring your platform handles traffic and complex business logic effortlessly.
+3. **Real-Time Communication Systems:** Need live chat, video calling, or instant data sync? I integrate WebRTC and WebSocket technologies to create low-latency, real-time distributed systems.
+4. **Cloud & DevOps Automation:** I streamline your deployment process by engineering robust CI/CD pipelines (GitHub Actions) and containerized workflows (Docker), allowing for rapid, reliable, and automated releases.
+5. **Self-Hosted & Local-First Solutions:** For strict privacy and zero third-party reliance, I architect network-isolated, local-only applications that give you complete ownership and control over your data.
